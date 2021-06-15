@@ -1,5 +1,3 @@
-失敗させるよ
-
 // データ格納
 export const state = () => ({
   list: [],
